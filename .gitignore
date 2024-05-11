@@ -1,0 +1,5 @@
+/.env
+/.vscode
+/ChatOwnData.py
+/embedding_util.py
+/env
